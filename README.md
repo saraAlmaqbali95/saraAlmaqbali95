@@ -9,21 +9,17 @@ I'm on a coding odyssey, fueled by curiosity and a passion for unraveling the wo
 - Expanding horizons through community collaboration.
 
 ### 💻 Tech Playground:
-Python 🐍
-JavaScript 💻
-HTML & CSS 🎨
+- Python 🐍
+- JavaScript 💻
+- HTML & CSS 🎨
+- Vue.js
+- React.js / Next.js
 
 ### 🚀 Aspirations:
 
-Contribute to open-source brilliance.
-Deepen my software sorcery.
-Connect, inspire, and learn with the coding tribe.
-
-### 📚 Learning Arsenal:
-
-Books 📖
-Online courses 🖥️
-Coding escapades 🧠
+- Contribute to open-source brilliance.
+- Deepen my software sorcery.
+- Connect, inspire, and learn with the coding tribe.
 
 ### 🤝 Let's Link:
 
