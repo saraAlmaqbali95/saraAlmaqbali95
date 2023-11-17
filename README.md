@@ -4,9 +4,9 @@ I'm on a coding odyssey, fueled by curiosity and a passion for unraveling the wo
 
 ### 🌱 Growing Journey:
 
-Mastering the core of diverse programming languages.
-Crafting practical projects to solidify my skills.
-Expanding horizons through community collaboration.
+- Mastering the core of diverse programming languages.
+- Crafting practical projects to solidify my skills.
+- Expanding horizons through community collaboration.
 
 ### 💻 Tech Playground:
 Python 🐍
