@@ -23,8 +23,8 @@ I'm on a coding odyssey, fueled by curiosity and a passion for unraveling the wo
 
 ### 🤝 Let's Link:
 
-Open to collaborations and shared learning adventures./
-Ready for tech talks on coding, curiosity, and everything in between.
+Open to collaborations and shared learning adventures.  
+Ready for tech talks on coding, curiosity, and everything in between.  
 
 ### 📫 Find Me:
 
