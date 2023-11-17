@@ -28,7 +28,7 @@ Ready for tech talks on coding, curiosity, and everything in between.
 
 ### 📫 Find Me:
 
-[LinkedIn](www.linkedin.com/in/saraalmaqbali)
+- [LinkedIn](www.linkedin.com/in/saraalmaqbali)
 
 
 ### 🌈 Quirky Note:
